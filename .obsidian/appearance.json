@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "cssTheme": "Obsidian_Typora_Vue",
+  "enabledCssSnippets": [
+    "iconfont",
+    "nav-single-line",
+    "vertical lines of list-1"
+  ],
+  "translucency": false
+}
